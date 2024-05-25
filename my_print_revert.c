@@ -1,5 +1,5 @@
 void print_char(char);
-int my_str_len(char*);
+int my_str_len(const char*);
 
 void my_print_revert(char *toRevert)
 {

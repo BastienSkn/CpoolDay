@@ -1,4 +1,4 @@
-int my_str_len(char* chaine)
+int my_str_len(const char* chaine)
 {
     int len = 0;
     int x = 0;

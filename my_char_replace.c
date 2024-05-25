@@ -1,5 +1,5 @@
 void print_char(char);
-int my_str_len(char*);
+int my_str_len(const char*);
 
 char *my_char_replace(char *origin, char toFind, char toReplace)
 {
